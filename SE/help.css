@@ -1,0 +1,166 @@
+.macbook-pro-14-11-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-300);
+  border-bottom: 2px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 1512px;
+  height: 80px;
+  display: none;
+}
+.whats-the-best {
+  margin: 0;
+  position: absolute;
+  top: 170px;
+  left: 50px;
+  font-weight: 600;
+}
+.whats-the-best1,
+.whats-the-best2,
+.whats-the-best3,
+.whats-the-best4 {
+  margin: 0;
+  position: absolute;
+  top: 331px;
+  left: 50px;
+  font-weight: 600;
+}
+.whats-the-best2,
+.whats-the-best3,
+.whats-the-best4 {
+  top: 492px;
+}
+.whats-the-best3,
+.whats-the-best4 {
+  top: 653px;
+}
+.whats-the-best4 {
+  top: 814px;
+}
+.how-do-you,
+.how-do-you1,
+.how-do-you2,
+.how-do-you3,
+.how-do-you4 {
+  margin: 0;
+  position: absolute;
+  top: 170px;
+  left: 550px;
+  font-weight: 600;
+}
+.how-do-you1,
+.how-do-you2,
+.how-do-you3,
+.how-do-you4 {
+  top: 331px;
+}
+.how-do-you2,
+.how-do-you3,
+.how-do-you4 {
+  top: 492px;
+}
+.how-do-you3,
+.how-do-you4 {
+  top: 653px;
+}
+.how-do-you4 {
+  top: 814px;
+}
+.i-dont-know,
+.i-dont-know1,
+.i-dont-know2,
+.i-dont-know3,
+.i-dont-know4,
+.you-boil-the,
+.you-boil-the1,
+.you-boil-the2,
+.you-boil-the3,
+.you-boil-the4 {
+  margin: 0;
+  position: absolute;
+  top: 208px;
+  left: 50px;
+  font-size: var(--font-size-base);
+  line-height: 21px;
+  font-weight: 500;
+  color: var(--color-lightgray);
+  display: inline-block;
+  width: 420px;
+}
+.i-dont-know1,
+.i-dont-know2,
+.i-dont-know3,
+.i-dont-know4,
+.you-boil-the,
+.you-boil-the1,
+.you-boil-the2,
+.you-boil-the3,
+.you-boil-the4 {
+  top: 369px;
+}
+.i-dont-know2,
+.i-dont-know3,
+.i-dont-know4,
+.you-boil-the,
+.you-boil-the1,
+.you-boil-the2,
+.you-boil-the3,
+.you-boil-the4 {
+  top: 530px;
+}
+.i-dont-know3,
+.i-dont-know4,
+.you-boil-the,
+.you-boil-the1,
+.you-boil-the2,
+.you-boil-the3,
+.you-boil-the4 {
+  top: 691px;
+}
+.i-dont-know4,
+.you-boil-the,
+.you-boil-the1,
+.you-boil-the2,
+.you-boil-the3,
+.you-boil-the4 {
+  top: 852px;
+}
+.you-boil-the,
+.you-boil-the1,
+.you-boil-the2,
+.you-boil-the3,
+.you-boil-the4 {
+  top: 208px;
+  left: 550px;
+}
+.you-boil-the1,
+.you-boil-the2,
+.you-boil-the3,
+.you-boil-the4 {
+  top: 369px;
+}
+.you-boil-the2,
+.you-boil-the3,
+.you-boil-the4 {
+  top: 530px;
+}
+.you-boil-the3,
+.you-boil-the4 {
+  top: 691px;
+}
+.you-boil-the4 {
+  top: 852px;
+}
+.macbook-pro-14-11 {
+  position: relative;
+  background-color: var(--color-gray-300);
+  width: 65%;
+  height: 961px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-josefin-sans);
+  margin-top: 76px;
+}

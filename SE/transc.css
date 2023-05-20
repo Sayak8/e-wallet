@@ -1,0 +1,351 @@
+.macbook-pro-14-15-child,
+.macbook-pro-14-15-item {
+  position: absolute;
+  background-color: var(--color-gray-300);
+  box-sizing: border-box;
+}
+.macbook-pro-14-15-child {
+  top: 0;
+  left: 0;
+  border-bottom: 2px solid var(--color-gray-200);
+  width: 1512px;
+  height: 80px;
+  display: none;
+}
+.macbook-pro-14-15-item {
+  top: 140px;
+  left: 50px;
+  border-radius: var(--br-3xs);
+  border: 2px solid var(--color-gray-200);
+  width: 960px;
+  height: 768px;
+}
+.macbook-pro-14-15-inner {
+  position: absolute;
+  top: 365px;
+  left: 52px;
+  background-color: var(--color-gray-100);
+  width: 956px;
+  height: 42px;
+  display: none;
+}
+.macbook-pro-14-15-child1,
+.rectangle-div-1 {
+  position: absolute;
+  left: 52px;
+  background-color: var(--color-gray-300);
+  border-bottom: 2px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 956px;
+  height: 50px;
+}
+.rectangle-div-1 {
+  top: 142px;
+  border-radius: var(--br-5xs) var(--br-5xs) 0 0;
+}
+.macbook-pro-14-15-child1 {
+  top: 192px;
+}
+.recent-transactions {
+  margin: 0;
+  position: absolute;
+  top: 159px;
+  left: 77px;
+  font-weight: 600;
+}
+.payment-method {
+  margin: 0;
+  top: 209px;
+  left: 77px;
+  color: var(--color-darkgray-100);
+}
+.date,
+.id,
+.payment-method {
+  position: absolute;
+  font-weight: 600;
+}
+.id {
+  margin: 0;
+  top: 209px;
+  left: 274px;
+  color: var(--color-darkgray-100);
+}
+.date {
+  left: 381px;
+}
+.amount,
+.date,
+.recepient {
+  margin: 0;
+  top: 209px;
+  color: var(--color-darkgray-100);
+}
+.amount {
+  position: absolute;
+  left: 518px;
+  font-weight: 600;
+}
+.recepient {
+  left: 676px;
+}
+.download,
+.recepient,
+.status {
+  position: absolute;
+  font-weight: 600;
+}
+.status {
+  margin: 0;
+  top: 209px;
+  left: 936px;
+  color: var(--color-darkgray-100);
+}
+.download {
+  top: 4px;
+  left: 28px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-josefin-sans);
+  color: var(--color-white);
+  text-align: left;
+}
+.frame-icon-3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.download-parent {
+  position: relative;
+  width: 93px;
+  height: 20px;
+}
+.frame-button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-3xs);
+  background-color: var(--color-mediumpurple);
+  position: absolute;
+  top: 156px;
+  left: 879px;
+  border-radius: var(--br-7xs);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.image-4-icon {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 16px;
+  height: 19.63px;
+  object-fit: cover;
+}
+.a569,
+.john-doe,
+.jun-12-23,
+.p,
+.paypal {
+  position: absolute;
+  top: 4px;
+  left: 26px;
+  font-weight: 600;
+}
+.a569,
+.john-doe,
+.jun-12-23,
+.p {
+  margin: 0;
+  left: 197px;
+}
+.john-doe,
+.jun-12-23,
+.p {
+  left: 307px;
+}
+.john-doe,
+.p {
+  left: 443px;
+}
+.john-doe {
+  left: 601px;
+}
+.success {
+  position: relative;
+}
+.success-wrapper {
+  position: absolute;
+  top: 0;
+  left: 851px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-gainsboro-200);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-7xs) var(--padding-5xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkslategray);
+}
+.image-4-parent {
+  position: absolute;
+  top: 266px;
+  left: 75px;
+  width: 910px;
+  height: 24px;
+}
+.paypal1 {
+  margin: 0;
+  position: absolute;
+  top: 4px;
+  left: 26px;
+  font-weight: 600;
+}
+.image-4-group {
+  position: absolute;
+  top: 320px;
+  left: 75px;
+  width: 910px;
+  height: 24px;
+}
+.image-4-icon2,
+.image-5-icon {
+  position: absolute;
+  top: 378px;
+  left: 75px;
+  width: 16px;
+  height: 19.63px;
+  object-fit: cover;
+}
+.image-4-icon2 {
+  top: 377px;
+  display: none;
+}
+.a5692,
+.john-doe2,
+.jun-12-232,
+.p2,
+.paypal2 {
+  margin: 0;
+  position: absolute;
+  top: 4px;
+  left: 0;
+  font-weight: 600;
+}
+.a5692,
+.john-doe2,
+.jun-12-232,
+.p2 {
+  left: 171px;
+}
+.john-doe2,
+.jun-12-232,
+.p2 {
+  left: 281px;
+}
+.john-doe2,
+.p2 {
+  left: 417px;
+}
+.john-doe2 {
+  left: 575px;
+}
+.failure-wrapper {
+  position: absolute;
+  top: 0;
+  left: 828px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-gainsboro-100);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-7xs) var(--padding-5xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-xs);
+  color: var(--color-brown);
+}
+.group-div,
+.image-4-container {
+  position: absolute;
+  top: 374px;
+  left: 101px;
+  width: 884px;
+  height: 24px;
+}
+.group-div {
+  top: 428px;
+  left: 75px;
+  width: 910px;
+}
+.failure-container {
+  position: absolute;
+  top: 0;
+  left: 854px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-gainsboro-100);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-7xs) var(--padding-5xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-xs);
+  color: var(--color-brown);
+}
+.image-4-parent1,
+.image-4-parent2,
+.image-4-parent3,
+.image-4-parent4 {
+  position: absolute;
+  top: 482px;
+  left: 75px;
+  width: 910px;
+  height: 24px;
+}
+.image-4-parent2,
+.image-4-parent3,
+.image-4-parent4 {
+  top: 536px;
+}
+.image-4-parent3,
+.image-4-parent4 {
+  top: 590px;
+}
+.image-4-parent4 {
+  top: 644px;
+}
+.image-4-parent5,
+.image-4-parent6,
+.image-4-parent7,
+.image-4-parent8 {
+  position: absolute;
+  top: 698px;
+  left: 75px;
+  width: 910px;
+  height: 24px;
+}
+.image-4-parent6,
+.image-4-parent7,
+.image-4-parent8 {
+  top: 752px;
+}
+.image-4-parent7,
+.image-4-parent8 {
+  top: 806px;
+}
+.image-4-parent8 {
+  top: 860px;
+}
+.macbook-pro-14-15 {
+  background-color: var(--color-gray-300);
+  width: 68%;
+  height: 982px;
+
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-josefin-sans);
+  margin-top: 81px;
+}
